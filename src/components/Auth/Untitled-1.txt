@@ -1,0 +1,12 @@
+https://www.thyrocare.com/API_BETA/common.svc/7738943013/123456789/portalorders/DSA/login
+https://www.thyrocare.com/API_BETA/master.svc/sNhdlQjqvoD7zCbzf56sxppBJX3MmdWSAomi@RBhXRrVcGyko7hIzQ==/null/products
+//
+Offer
+Test 
+Profile
+
+https://www.thyrocare.com/API_BETA/master.svc/sNhdlQjqvoD7zCbzf56sxppBJX3MmdWSAomi@RBhXRrVcGyko7hIzQ==/tests/products
+
+react-native init mmps --version 0.61.5
+
+7569297252 7CCFB7

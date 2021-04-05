@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325534272578",
+    "project_id": "entroewaste-e87f3",
+    "storage_bucket": "entroewaste-e87f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325534272578:android:ed193d0c9c5451ed2df1db",
+        "android_client_info": {
+          "package_name": "com.entroewaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325534272578-ole5us12t4acfou9vugo581nt90r254g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5p-u6-saCoxXRW7AvZt-AXhRO2nvkSKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325534272578-ole5us12t4acfou9vugo581nt90r254g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
